@@ -1,0 +1,9 @@
+data/processed
+data/raw
+
+*.DS_Store
+
+venv/
+*__pycache__/
+
+saved_models/

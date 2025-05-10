@@ -17,7 +17,7 @@ Steganography is the art of concealing information within digital media. When co
 ## Project Structure
 
 ```
-Autoencoder % Tree -L 2
+Autoencoder
 ├── README.md                   <- Project documentation
 ├── data/                       <- Scripts and directories for raw and processed data
 │   ├── prepare_data.py         <- Prepares and processes datasets
